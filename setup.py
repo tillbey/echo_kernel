@@ -2,7 +2,7 @@ from distutils.core import setup
 
 with open('README.rst') as f:
     readme = f.read()
-
+# a comment
 setup(
     name='echo_kernel',
     version='1.1',
